@@ -1,0 +1,37 @@
+
+2021/10/20 08:36:02 Cannot add a service to a Client(HP)! Error: <nil>
+2021/10/20 08:59:39 Such login exists in DB(SP)! Try another one! Error:%!e(<nil>)
+2021/10/20 09:02:28 Such login exists in DB(SP)! Try another one! Error:%!e(<nil>)
+2021/10/20 09:02:28 Register of Merchant is failed! Nil(HP)! Error: <nil>
+2021/10/20 09:08:18 Such login exists in DB(SP)! Try another one! Error:%!e(<nil>)
+2021/10/20 09:08:18 Cannot Transfer Money! failed! (HP)
+2021/10/20 09:59:03 Cannot getting a client's sub service list(HP)! Error:&{%!e(string=number of field descriptions must equal number of destinations, got 4 and 5)}
+2021/10/20 10:00:31 Cannot getting a client's sub service list(HP)! Error:{%!e(int=2) %!e(*errors.errorString=&{cannot assign 0 into *string})}
+2021/10/20 10:38:51 Validation of Client's request is failed(HP)! Error: Login is too short
+2021/10/20 10:40:59 Validation of Client's request is failed(HP)! Error: Name is too short
+2021/10/20 10:41:10 Validation of Client's request is failed(HP)! Error: Phone number is too short
+2021/10/20 10:58:50 Cannot get client's login and password from DB(RP)!Error: no rows in result set
+2021/10/20 10:58:50 Login of Client(SP)! Error:&{%!e(string=no rows in result set)}
+2021/10/20 10:58:50 Login of a Client Failed(HP)! Error: no rows in result set
+2021/10/20 10:59:52 Cannot get client's login and password from DB(RP)!Error: no rows in result set
+2021/10/20 10:59:52 Login of Client(SP)! Error:&{%!e(string=no rows in result set)}
+2021/10/20 10:59:52 Login of a Client Failed(HP)! Error: no rows in result set
+2021/10/20 11:04:42 Cannot get client's login and password from DB(RP)!Error: no rows in result set
+2021/10/20 11:04:42 Login of Client(SP)! Error:&{%!e(string=no rows in result set)}
+2021/10/20 11:04:42 Login of a Client Failed(HP)! Error: no rows in result set
+2021/10/20 11:36:56 Cannot Transfer Money! (HP)
+2021/10/20 11:47:54 Cannot add a service to a Client(HP)! Error: ERROR: current transaction is aborted, commands ignored until end of transaction block (SQLSTATE 25P02)
+2021/10/20 11:48:10 Cannot add a service to a Client(HP)! Error: ERROR: current transaction is aborted, commands ignored until end of transaction block (SQLSTATE 25P02)
+2021/10/20 11:48:14 Cannot add a service to a Client(HP)! Error: ERROR: current transaction is aborted, commands ignored until end of transaction block (SQLSTATE 25P02)
+2021/10/20 11:50:48 Cannot add a service to a Client(HP)! Error: ERROR: current transaction is aborted, commands ignored until end of transaction block (SQLSTATE 25P02)
+2021/10/20 11:58:46 Such a Service name doesn't exists In DB(HP)!
+2021/10/20 11:58:46 Validation Subscribe service(HP)! Error: Such login exists!
+2021/10/20 12:00:51 Purchasing Subscribe - Failed (HP)! Error: <nil>
+2021/10/20 12:02:24 Purchasing Subscribe - Failed (HP)! Error: <nil>
+2021/10/20 12:02:47 Purchasing Subscribe - Failed (HP)! Error: <nil>
+2021/10/20 12:04:10 Purchasing Subscribe - Failed (HP)! Error: <nil>
+2021/10/20 12:07:45 Purchasing Subscribe - Failed (HP)! Error: <nil>
+2021/10/20 13:04:51 Such login exists in DB(SP)! Try another one! Error:%!e(<nil>)
+2021/10/20 13:04:51 Registering of client failed!(HP)
+2021/10/20 15:28:15 Such login exists in DB(SP)! Try another one! Error:%!e(<nil>)
+2021/10/20 15:28:15 Registering of client failed!(HP)
